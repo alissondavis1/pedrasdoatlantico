@@ -1,0 +1,3 @@
+# Module pedrasdoatlantico
+# RPC service class, partial path of RPC policy file
+com.pedras.client.GreetingService, 2906737100CB726A11D7E4B94FDEFB9B.gwt.rpc

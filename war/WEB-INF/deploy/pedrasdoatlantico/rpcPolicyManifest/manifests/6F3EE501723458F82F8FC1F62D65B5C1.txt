@@ -1,0 +1,2 @@
+serviceClass: com.pedras.client.GreetingService
+path: 2906737100CB726A11D7E4B94FDEFB9B.gwt.rpc
